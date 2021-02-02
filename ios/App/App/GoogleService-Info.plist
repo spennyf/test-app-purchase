@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>312569572624-cfi78la69s7r5462k4vrfkcq5thkl6k5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.312569572624-cfi78la69s7r5462k4vrfkcq5thkl6k5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgPMFHgTR8p4FRk9F7o02E3OL5YF3gDZ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>312569572624</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.healthyhabits</string>
+	<key>PROJECT_ID</key>
+	<string>healthy-habits-c8e6c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthy-habits-c8e6c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:312569572624:ios:5c3c64caf8c3cde9708995</string>
+</dict>
+</plist>
